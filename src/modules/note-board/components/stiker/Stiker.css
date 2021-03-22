@@ -1,0 +1,14 @@
+.stiker {
+    width: 200px;
+    height: 100px;
+    background-color: rgba(94, 255, 0, 0.5);
+    margin: 20px;
+    text-align: right;
+    border: 2px solid rgb(94, 255, 0);
+    border-radius: 5px;
+}
+.textarea {
+    width: 194px;
+    height: 70px;
+    border-radius: 5px;
+}

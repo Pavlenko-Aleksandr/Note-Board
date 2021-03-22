@@ -1,0 +1,7 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 0 100px 200px 100px;
+}
